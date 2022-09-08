@@ -1,0 +1,11 @@
+{
+    "data": {
+      "type": "registry-modules",
+      "attributes": {
+        "name": "vnet-test",
+        "provider": "azurerm",
+        "registry-name": "private"
+      }
+    }
+  }
+  
